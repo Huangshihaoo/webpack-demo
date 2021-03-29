@@ -1,0 +1,3 @@
+# webpack案例
+
+这是一个简单的webpack应用案例，近几天重新学了一遍webpack，于是有了这个案例，理解透彻的感觉太棒了，之前对于webpack一直都模模糊糊的，不过终究还是简单的应用，没有涉及到babel等其他工具的使用。serverTest目录是一个服务器应用端口是4000只有一个/getdata的请求。webpack.config.js里有一些注释
